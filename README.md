@@ -1,7 +1,7 @@
 # Lab0
 - Выполнил **Кузнецов Кирилл Андреевич 408933**
 - Язык программирования для изучения - **F#**
-- Книга - [https://leanpub.com/essential-fsharp]
+- Книга - https://leanpub.com/essential-fsharp
 - Стек:
 - - Компилятор/интерпретатор - .NET SDK
   - Система сборки - dotnet CLI
