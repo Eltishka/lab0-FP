@@ -25,5 +25,5 @@
 
 ## Список использованных источников
 1. https://habr.com/ru/articles/897504 - Зачем выбирать F#
-2. [https://habr.com/ru/companies/otus/articles/791312/] - Обзор языка Erlang
-3. Первые 15 страниц книги [https://leanpub.com/essential-fsharp]
+2. https://habr.com/ru/companies/otus/articles/791312 - Обзор языка Erlang
+3. Первые 15 страниц книги https://leanpub.com/essential-fsharp
